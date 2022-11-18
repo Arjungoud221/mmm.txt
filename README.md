@@ -1,1 +1,5 @@
-# mmm.txt
+chicken
+fizza
+bed
+amlet
+chicken fry
